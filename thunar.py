@@ -7,7 +7,7 @@ class ThunarCommand():
     def get_path(self, paths):
         if paths:
             return paths[0]
-        elif self.window.active_view():
+        elif self.window.active_view().file_name():
             return os.path.split(self.window.active_view().file_name())[0]
         elif self.window.folders():
             return self.window.folders()[0]
