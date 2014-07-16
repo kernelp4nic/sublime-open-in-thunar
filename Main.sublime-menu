@@ -1,0 +1,18 @@
+[
+    {
+        "caption": "Tools",
+        "mnemonic": "T",
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "Thunar",
+                "children":
+                [
+                    { "command": "open_thunar", "caption": "Open Thunar here" }
+                ]
+            }
+
+        ]
+    }
+]

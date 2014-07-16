@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Thunar: Open here",
+        "command": "open_thunar"
+    }
+]
