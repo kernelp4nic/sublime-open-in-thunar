@@ -4,18 +4,18 @@
 		{
 			"name": "Open Thunar",
 			"previous_names": ["Sublime Thunar"],
-			"details": "https://github.com/kernelp4nic/sublime-thunar",
+			"details": "https://github.com/kernelp4nic/sublime-open-in-thunar",
 			"description": "Open Thunar at the current file directory",
 			"author": "Sebastián Moreno",
 			"labels": ["Thunar","integration"],
-			"homepage": "https://github.com/kernelp4nic/sublime-thunar",
+			"homepage": "https://github.com/kernelp4nic/sublime-open-in-thunar",
 			"last_modified": "2014-07-15 10:00:00",
 			"platforms": {
 				"linux": [
 					{
-						"version": "1.1.0",
+						"version": "0.1",
 						"sublime_text": "*",
-						"url": "https://github.com/kernelp4nic/sublime-thunar/archive/1.0.zip"
+						"url": "https://github.com/kernelp4nic/sublime-open-in-thunar/archive/0.1.zip"
 					}
 				]
 			}
